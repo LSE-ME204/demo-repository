@@ -1,0 +1,6 @@
+Here's my API credentials, steal it!
+
+username: ...
+password: ...
+
+It's free FOR YOU! I used my credit card.
